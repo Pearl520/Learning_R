@@ -1,4 +1,4 @@
-# Learning R笔记-刘沛瑶
+# Learning R笔记
 
 笔记示例代码：https://cran.r-project.org/web/packages/learningr/
 
